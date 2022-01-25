@@ -1,0 +1,9 @@
+Hey my name is Anshul
+What is your name
+My name is Sam
+How are you ?
+I am good 
+Im fine as well
+
+for lines in fileLines:
+    print(lines)
